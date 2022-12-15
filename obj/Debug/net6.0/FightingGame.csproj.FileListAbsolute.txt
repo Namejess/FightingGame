@@ -1,0 +1,15 @@
+C:\CDA CCI\Module C#\FightingGame\obj\Debug\net6.0\FightingGame.csproj.AssemblyReference.cache
+C:\CDA CCI\Module C#\FightingGame\obj\Debug\net6.0\FightingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\CDA CCI\Module C#\FightingGame\obj\Debug\net6.0\FightingGame.AssemblyInfoInputs.cache
+C:\CDA CCI\Module C#\FightingGame\obj\Debug\net6.0\FightingGame.AssemblyInfo.cs
+C:\CDA CCI\Module C#\FightingGame\obj\Debug\net6.0\FightingGame.csproj.CoreCompileInputs.cache
+C:\CDA CCI\Module C#\FightingGame\bin\Debug\net6.0\FightingGame.exe
+C:\CDA CCI\Module C#\FightingGame\bin\Debug\net6.0\FightingGame.deps.json
+C:\CDA CCI\Module C#\FightingGame\bin\Debug\net6.0\FightingGame.runtimeconfig.json
+C:\CDA CCI\Module C#\FightingGame\bin\Debug\net6.0\FightingGame.dll
+C:\CDA CCI\Module C#\FightingGame\bin\Debug\net6.0\FightingGame.pdb
+C:\CDA CCI\Module C#\FightingGame\obj\Debug\net6.0\FightingGame.dll
+C:\CDA CCI\Module C#\FightingGame\obj\Debug\net6.0\refint\FightingGame.dll
+C:\CDA CCI\Module C#\FightingGame\obj\Debug\net6.0\FightingGame.pdb
+C:\CDA CCI\Module C#\FightingGame\obj\Debug\net6.0\FightingGame.genruntimeconfig.cache
+C:\CDA CCI\Module C#\FightingGame\obj\Debug\net6.0\ref\FightingGame.dll
