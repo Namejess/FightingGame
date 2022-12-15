@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/sUZi/sDXtwq6wqGKKOPCi1TnCEq6NWtjrXAD9xqMrzkUOMySdZa4fd2yVeCXzzmpfZiQxPxEuQi8kcxUs75kw==",
+  "dgSpecHash": "K0OdmGYqc+dW3fVmvjscvhyylRAsYQHc/3SzQrKiR3WMJmMOqH8YwnreD6Yl6pqTCjccR7nGI85Gm435AMmgYg==",
   "success": true,
-  "projectFilePath": "C:\\CDA CCI\\Module C#\\FightingGame\\FightingGame.csproj",
+  "projectFilePath": "/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/FightingGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

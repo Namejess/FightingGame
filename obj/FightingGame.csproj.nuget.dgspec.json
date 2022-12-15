@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CDA CCI\\Module C#\\FightingGame\\FightingGame.csproj": {}
+    "/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/FightingGame.csproj": {}
   },
   "projects": {
-    "C:\\CDA CCI\\Module C#\\FightingGame\\FightingGame.csproj": {
+    "/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/FightingGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CDA CCI\\Module C#\\FightingGame\\FightingGame.csproj",
+        "projectUniqueName": "/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/FightingGame.csproj",
         "projectName": "FightingGame",
-        "projectPath": "C:\\CDA CCI\\Module C#\\FightingGame\\FightingGame.csproj",
-        "packagesPath": "C:\\Users\\Namejess\\.nuget\\packages\\",
-        "outputPath": "C:\\CDA CCI\\Module C#\\FightingGame\\obj\\",
+        "projectPath": "/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/FightingGame.csproj",
+        "packagesPath": "/Users/adline/.nuget/packages/",
+        "outputPath": "/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Namejess\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/adline/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

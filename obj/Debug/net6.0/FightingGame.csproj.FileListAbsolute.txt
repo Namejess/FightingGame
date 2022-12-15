@@ -1,0 +1,15 @@
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/obj/Debug/net6.0/FightingGame.csproj.AssemblyReference.cache
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/obj/Debug/net6.0/FightingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/obj/Debug/net6.0/FightingGame.AssemblyInfoInputs.cache
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/obj/Debug/net6.0/FightingGame.AssemblyInfo.cs
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/obj/Debug/net6.0/FightingGame.csproj.CoreCompileInputs.cache
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/bin/Debug/net6.0/FightingGame
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/bin/Debug/net6.0/FightingGame.deps.json
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/bin/Debug/net6.0/FightingGame.runtimeconfig.json
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/bin/Debug/net6.0/FightingGame.dll
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/bin/Debug/net6.0/FightingGame.pdb
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/obj/Debug/net6.0/FightingGame.dll
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/obj/Debug/net6.0/refint/FightingGame.dll
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/obj/Debug/net6.0/FightingGame.pdb
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/obj/Debug/net6.0/FightingGame.genruntimeconfig.cache
+/Users/adline/Cours/BACK_END/GIT_GITHUB/JEUX/FightingGame/obj/Debug/net6.0/ref/FightingGame.dll

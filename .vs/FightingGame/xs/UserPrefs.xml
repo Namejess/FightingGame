@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B4051A26-F629-404B-BA6D-DAA1824CE857}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Player.cs">
+    <Files>
+      <File FileName="Character.cs" Line="32" Column="60" />
+      <File FileName="Healer.cs" />
+      <File FileName="Magus.cs" />
+      <File FileName="Warrior.cs" />
+      <File FileName="Player.cs" Line="23" Column="1" />
+      <File FileName="Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FightingGame" expanded="True">
+            <Node name="FightingGame" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FightingGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
