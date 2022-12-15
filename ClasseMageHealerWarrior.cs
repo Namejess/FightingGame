@@ -16,6 +16,7 @@ namespace FightingGame
             public int AttackPower { get; set; }
             public int Speed { get; set; }
             public int CooldownSpecialAttack { get; set; }
+            public object name { get; set; }
 
             public void SpecialAttackMethod(Character character)
             {
@@ -26,6 +27,11 @@ namespace FightingGame
             {
                 character.Health -= AttackPower;
 
+            }
+
+            public void LooseHealth(Character character)
+            {
+                character.Health -= character.AttackPower;
             }
 
             public Healer()
@@ -43,6 +49,7 @@ namespace FightingGame
             public int AttackPower { get; set; }
             public int Speed { get; set; }
             public int CooldownSpecialAttack { get; set; }
+            public object name { get; set; }
 
             public void SpecialAttackMethod(Character character)
             {
@@ -53,6 +60,11 @@ namespace FightingGame
             public void AttackMethod(Character character)
             {
                 character.Health -= AttackPower;
+            }
+
+            public void LooseHealth(Character character)
+            {
+                character.Health -= character.AttackPower;
             }
 
             public Warrior()
@@ -70,6 +82,7 @@ namespace FightingGame
             public int AttackPower { get; set; }
             public int Speed { get; set; }
             public int CooldownSpecialAttack { get; set; }
+            public object name { get; set; }
 
             public void SpecialAttackMethod(Character character)
             {
@@ -82,12 +95,18 @@ namespace FightingGame
 
             }
 
+            public void LooseHealth(Character character)
+            {
+                character.Health -= character.AttackPower;
+            }
+
             public Mage()
             {
                 Health = 24;
                 AttackPower = 6;
                 Speed = 5;
                 CooldownSpecialAttack = 2;
+                
             }
         }
 

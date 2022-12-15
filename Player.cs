@@ -9,7 +9,7 @@ namespace FightingGame
     public class Player
     {
         public string name;
-
+        
         public Player(string name)
         {
             this.name = name;
@@ -33,7 +33,7 @@ namespace FightingGame
                 default:
                     Console.WriteLine("Wrong input");
                     
-                    return ChooseCharacter();
+                    return  ChooseCharacter();
             }
         }
     }
